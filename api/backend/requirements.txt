@@ -1,0 +1,4 @@
+fastapi==0.109.1      # Framework para criar a API
+uvicorn==0.27.0       # Servidor ASGI para rodar o FastAPI
+pandas==2.1.4         # Para ler e filtrar o CSV das operadoras
+python-multipart      # Caso precise enviar arquivos (opcional)

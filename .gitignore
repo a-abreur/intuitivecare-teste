@@ -1,0 +1,13 @@
+# Pastas de saída (não versionar)
+output/
+*/output/
+
+# Ambiente virtual
+venv/
+
+# Arquivos de configuração local
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
